@@ -43,4 +43,10 @@ body {
   /* Mostrar el menú al hacer clic en el ícono */
   #menu-toggle-checkbox:checked + .menu-icon + .menu {
     display:grid;
+
+
+  }
+  #sendMail{
+    opacity: 0
+    ;
   }
