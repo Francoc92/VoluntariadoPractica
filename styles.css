@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(./imgPP/IMAGEN-PAG-PRINCIPAL.jpg);
+    background-image: url(eventos/imgEvent/FONDO-DE-PAGI);
     background-repeat: no-repeat;
     background-size: contain;
     background-position:bottom;
