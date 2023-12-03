@@ -14,7 +14,7 @@ body {
     background-color:transparent;
     color: #fff;
     display: flexbox;
-    justify-content: ;
+    justify-content:baseline ;
     align-items: center;
   }
   
