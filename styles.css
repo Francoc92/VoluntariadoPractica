@@ -1,4 +1,4 @@
-body {
+/* body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -41,7 +41,7 @@ body {
   }
   
   /* Mostrar el menú al hacer clic en el ícono */
-  #menu-toggle-checkbox:checked + .menu-icon + .menu {
+/*   #menu-toggle-checkbox:checked + .menu-icon + .menu {
     display:grid;
 
 
@@ -49,4 +49,4 @@ body {
   #sendMail{
     opacity: 0
     ;
-  }
+  } */ */
